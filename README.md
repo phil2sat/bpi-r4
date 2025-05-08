@@ -6,6 +6,7 @@ In first im not a professional dev, i dont know if the image is even booting ;)
 So in this approach i only added some packages like luci a nice argon theme and the new firmware which should fix the txpower
 
 Ah and used wpad-mesh-openssl since on my other devices i got the best compatibility in connecting wpa3 devices + im using mesh and never got it working with wpa3 encryption using the full package.
+Also i saw reports that openssl fixes wifi speed.
 
 There are so many patches around but one says do apply next one dont, so first testing what works and what not.
 
