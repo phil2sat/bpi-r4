@@ -5,6 +5,8 @@ Hi, since im waiting for my device to arrive, i just decided to fire up my dev e
 In first im not a professional dev, i dont know if the image is even booting ;)
 So in this approach i only added some packages like luci a nice argon theme and the new firmware which should fix the txpower
 
+Ah and used wpad-mesh-openssl since on my other devices i got the best compatibility in connecting wpa3 devices + im using mesh and never got it working with wpa3 encryption using the full package.
+
 There are so many patches around but one says do apply next one dont, so first testing what works and what not.
 
 Oh and i forgot i added some compiler optimizations, maybe they crash or make things go faster.
