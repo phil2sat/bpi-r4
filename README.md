@@ -1,4 +1,4 @@
-# BPI-R4 poe testing snapshot image 05/08/25
+# BPI-R4 poe testing snapshot image 25/05/08
 
 Hi, since im waiting for my device to arrive, i just decided to fire up my dev environment, take some time reading and fiddeling out what to do with the new hardware.
 
