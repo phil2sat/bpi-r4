@@ -1,5 +1,4 @@
 apk-mbedtls - 3.0.0_pre20250208-r2
-attendedsysupgrade-common - 9
 base-files - 1658~1b7fd8464c
 bind-dig - 9.20.7-r1
 bind-host - 9.20.7-r1
@@ -256,7 +255,6 @@ nftables-json - 1.1.1-r1
 odhcp6c - 2024.09.25~b6ae9ffa-r1
 odhcpd-ipv6only - 2024.05.08~a2988231-r1
 openwrt-keyring - 2024.11.01~fbae29d7-r1
-owut - 2025.04.08~ef2bfb4d-r1
 pciids - 0.387-r1
 pciutils - 3.12.0-r2
 ppp - 2.5.2-r1
@@ -271,7 +269,6 @@ rpcd - 2024.12.02~cc9a471c-r1
 rpcd-mod-file - 2024.12.02~cc9a471c-r1
 rpcd-mod-iwinfo - 2024.12.02~cc9a471c-r1
 rpcd-mod-luci - 20240305-r1
-rpcd-mod-rpcsys - 2024.12.02~cc9a471c-r1
 rpcd-mod-rrdns - 20170710
 rpcd-mod-ucode - 2024.12.02~cc9a471c-r1
 rrdtool1 - 1.0.50-r6
@@ -299,7 +296,6 @@ ucode-mod-nl80211 - 2025.03.24~b27d70c9-r1
 ucode-mod-rtnl - 2025.03.24~b27d70c9-r1
 ucode-mod-ubus - 2025.03.24~b27d70c9-r1
 ucode-mod-uci - 2025.03.24~b27d70c9-r1
-ucode-mod-uclient - 2024.10.22~88ae8f20-r1
 ucode-mod-uloop - 2025.03.24~b27d70c9-r1
 uhttpd - 2023.06.25~34a8a74d-r4
 uhttpd-mod-ubus - 2023.06.25~34a8a74d-r4

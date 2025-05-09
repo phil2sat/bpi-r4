@@ -1,6 +1,6 @@
 CONFIG_TARGET_mediatek=y
 CONFIG_TARGET_mediatek_filogic=y
-CONFIG_TARGET_mediatek_filogic_DEVICE_bananapi_bpi-r4=y
+CONFIG_TARGET_mediatek_filogic_DEVICE_bananapi_bpi-r4-poe=y
 CONFIG_ALL_KMODS=y
 CONFIG_ALL_NONSHARED=y
 CONFIG_DEVEL=y
@@ -59,7 +59,6 @@ CONFIG_OPENSSL_WITH_WHIRLPOOL=y
 # CONFIG_PACKAGE_atm-tools is not set
 # CONFIG_PACKAGE_atm-ttcp_atm is not set
 # CONFIG_PACKAGE_atm-zeppelin is not set
-CONFIG_PACKAGE_attendedsysupgrade-common=y
 # CONFIG_PACKAGE_batctl-default is not set
 CONFIG_PACKAGE_bind-dig=y
 CONFIG_PACKAGE_bind-host=y
@@ -989,13 +988,11 @@ CONFIG_PACKAGE_luci-proto-wireguard=y
 CONFIG_PACKAGE_luci-theme-argon=y
 CONFIG_PACKAGE_luci-theme-bootstrap=y
 # CONFIG_PACKAGE_mt7601u-firmware is not set
-CONFIG_PACKAGE_mt7988-2p5g-phy-firmware=y
 CONFIG_PACKAGE_mtdev=m
 # CONFIG_PACKAGE_mwifiex-pcie-firmware is not set
 # CONFIG_PACKAGE_mwifiex-sdio-firmware is not set
 # CONFIG_PACKAGE_mwl8k-firmware is not set
 # CONFIG_PACKAGE_nand-utils is not set
-CONFIG_PACKAGE_owut=y
 CONFIG_PACKAGE_pciids=y
 CONFIG_PACKAGE_pciutils=y
 CONFIG_PACKAGE_qosify=y
@@ -1007,7 +1004,6 @@ CONFIG_PACKAGE_rpcd=y
 CONFIG_PACKAGE_rpcd-mod-file=y
 CONFIG_PACKAGE_rpcd-mod-iwinfo=y
 CONFIG_PACKAGE_rpcd-mod-luci=y
-CONFIG_PACKAGE_rpcd-mod-rpcsys=y
 CONFIG_PACKAGE_rpcd-mod-rrdns=y
 CONFIG_PACKAGE_rpcd-mod-ucode=y
 CONFIG_PACKAGE_rrdtool1=y
@@ -1046,7 +1042,6 @@ CONFIG_PACKAGE_terminfo=y
 CONFIG_PACKAGE_ucode-mod-html=y
 CONFIG_PACKAGE_ucode-mod-lua=y
 CONFIG_PACKAGE_ucode-mod-math=y
-CONFIG_PACKAGE_ucode-mod-uclient=y
 CONFIG_PACKAGE_uhttpd=y
 CONFIG_PACKAGE_uhttpd-mod-ubus=y
 # CONFIG_PACKAGE_umbim is not set
