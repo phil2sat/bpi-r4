@@ -1,4 +1,4 @@
-# BPI-R4 poe testing snapshot image 25/05/08
+# BPI-R4 std+poe testing snapshot image 25/05/08
 
 Hi, since im waiting for my device to arrive, i just decided to fire up my dev environment, take some time reading and fiddeling out what to do with the new hardware.
 
@@ -17,8 +17,6 @@ Oh and i forgot i added some compiler optimizations, maybe they crash or make th
 3. Is the switch now able to handle 100mbit and 1000mbit devices properly without degrading all to 100mbit
 4. Does the fan work as expected
 5. everything else working/stable
-
-I don't really know if the poe image works correctly on standard boards.
 
 Here i will constantly updating fixed images if im able to fix it
 https://github.com/phil2sat/bpi-r4
